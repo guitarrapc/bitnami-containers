@@ -1,7 +1,7 @@
 # ABOUT THIS BRANCH
 
 > [!NOTE]
-> - This branch is pinning to before bitnami eliminating old images.
+> - This branch is pinning to 142825000bf9127b8b49154657099a181c6ea2ce which is before bitnami eliminating old images, and adding BSI messages to README
 > - Side effect: Because history is back to this commit, no new images are commited.
 
 <!-- markdownlint-disable MD041 -->
