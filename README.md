@@ -1,3 +1,9 @@
+# ABOUT THIS BRANCH
+
+> [!NOTE]
+> - This branch is pinning to before bitnami eliminating old images.
+> - Side effect: Because history is back to this commit, no new images are commited.
+
 <!-- markdownlint-disable MD041 -->
 <p align="center">
     <img width="400px" height=auto src="https://dyltqmyl993wv.cloudfront.net/bitnami/bitnami-by-vmware.png" />
